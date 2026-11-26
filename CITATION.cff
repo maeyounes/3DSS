@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite our preprint as below."
+type: software
+title: "3DSS: 3D Surface Splatting for Inverse Rendering"
+authors:
+  - family-names: Younes
+    given-names: Mae
+    affiliation: "INRIA, France"
+    website: "https://maeyounes.github.io/"
+  - family-names: Boukhayma
+    given-names: Adnane
+    affiliation: "INRIA, France"
+    website: "https://boukhayma.github.io/"
+repository-code: "https://github.com/maeyounes/3DSS"
+url: "https://maeyounes.github.io/3DSS/"
+keywords:
+  - inverse rendering
+  - differentiable rendering
+  - surface splatting
+  - surfels
+  - physically-based rendering
+  - relighting
+preferred-citation:
+  type: article
+  title: "3DSS: 3D Surface Splatting for Inverse Rendering"
+  authors:
+    - family-names: Younes
+      given-names: Mae
+      affiliation: "INRIA, France"
+    - family-names: Boukhayma
+      given-names: Adnane
+      affiliation: "INRIA, France"
+  journal: "arXiv preprint arXiv:2605.05876"
+  year: 2026
+  url: "https://arxiv.org/abs/2605.05876"
